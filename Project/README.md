@@ -8,5 +8,7 @@ python3 starter.py -inst ./DATA/DATASET/large_scale/large_10 -alg BnB -time 1 -s
 ## For LS1(Simulated Annealing)
 
 ## For LS2(Hill Alimbing)
-
+```python
+python3 starter.py -inst ./DATA/DATASET/large_scale/large_10 -alg LS2 -time 100 -seed 5 
+```
 ## For Approximation Algorithm
